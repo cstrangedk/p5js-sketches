@@ -18,7 +18,7 @@ function setup() {
     sines[i] = TWO_PI;
   }
 
-  saveFrames("19MAR2017-P-", "png", 2, 22);
+  // saveFrames("19MAR2017-P-", "png", 2, 22);
 }
 
 function draw() {

@@ -6,7 +6,7 @@ function setup() {
   rectMode(CENTER);
   noFill();
 
-  saveFrames("18MAR2017-P-", "png", 2, 22);
+  // saveFrames("18MAR2017-P-", "png", 2, 22);
 }
 
 function draw() {
