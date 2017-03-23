@@ -2,11 +2,7 @@
 
 Storage place for all my basic sketches.
 
-![18MAR2017](18MAR2017/18MAR2017-animated.gif)
-![19MAR2017](19MAR2017/19MAR2017-animated.gif)
-![20MAR2017](20MAR2017/20MAR2017-animated.gif)
-![21MAR2017](21MAR2017/21MAR2017-animated.gif)
-![22MAR2017](22MAR2017/22MAR2017-animated.gif)
+<img src="https://raw.githubusercontent.com/cstrangedk/p5js-sketches/master/18MAR2017/18MAR2017-animated.gif" height=200, weight=200 /><img src="https://raw.githubusercontent.com/cstrangedk/p5js-sketches/master/19MAR2017/19MAR2017-animated.gif" height=200, weight=200 /><img src="https://raw.githubusercontent.com/cstrangedk/p5js-sketches/master/20MAR2017/20MAR2017-animated.gif" height=200, weight=200 /><img src="https://raw.githubusercontent.com/cstrangedk/p5js-sketches/master/21MAR2017/21MAR2017-animated.gif" height=200, weight=200 /><img src="https://raw.githubusercontent.com/cstrangedk/p5js-sketches/master/22MAR2017/22MAR2017-animated.gif" height=200, weight=200 />
 
 Requires p5js library
 
